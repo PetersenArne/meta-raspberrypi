@@ -23,7 +23,7 @@ KBUILD_DEFCONFIG_raspberrypi-cm3 ?= "bcm2709_defconfig"
 KBUILD_DEFCONFIG_raspberrypi2 ?= "bcm2709_defconfig"
 KBUILD_DEFCONFIG_raspberrypi3 ?= "bcm2709_defconfig"
 KBUILD_DEFCONFIG_raspberrypi3-64 ?= "bcmrpi3_defconfig"
-KBUILD_DEFCONFIG_raspberrypi4 ?= "bcm2711_defconfig"
+#KBUILD_DEFCONFIG_raspberrypi4 ?= "bcm2711_defconfig"
 KBUILD_DEFCONFIG_raspberrypi4-64 ?= "bcm2711_defconfig"
 
 LINUX_VERSION_EXTENSION ?= ""
